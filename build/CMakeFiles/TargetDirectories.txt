@@ -1,0 +1,3 @@
+C:/Users/notfe/Documents/Projects/AdaptiCore/build/CMakeFiles/AdaptiCore.dir
+C:/Users/notfe/Documents/Projects/AdaptiCore/build/CMakeFiles/edit_cache.dir
+C:/Users/notfe/Documents/Projects/AdaptiCore/build/CMakeFiles/rebuild_cache.dir
