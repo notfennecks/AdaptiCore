@@ -160,6 +160,8 @@ CMakeFiles/AdaptiCore.dir/src/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/16.2.0/bits/ostream.tcc \
  C:/msys64/ucrt64/include/c++/16.2.0/istream \
  C:/msys64/ucrt64/include/c++/16.2.0/bits/istream.tcc \
+ C:/Users/notfe/Documents/Projects/AdaptiCore/include/core/Environment.h \
+ C:/Users/notfe/Documents/Projects/AdaptiCore/include/core/Direction.h \
  C:/Users/notfe/Documents/Projects/AdaptiCore/include/core/Grid.h \
  C:/msys64/ucrt64/include/c++/16.2.0/vector \
  C:/msys64/ucrt64/include/c++/16.2.0/bits/stl_uninitialized.h \
@@ -168,6 +170,4 @@ CMakeFiles/AdaptiCore.dir/src/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/16.2.0/bits/vector.tcc \
  C:/Users/notfe/Documents/Projects/AdaptiCore/include/core/Position.h \
  C:/Users/notfe/Documents/Projects/AdaptiCore/include/entities/Player.h \
- C:/Users/notfe/Documents/Projects/AdaptiCore/include/core/Direction.h \
- C:/Users/notfe/Documents/Projects/AdaptiCore/include/entities/Enemy.h \
- C:/Users/notfe/Documents/Projects/AdaptiCore/include/core/Combat.h
+ C:/Users/notfe/Documents/Projects/AdaptiCore/include/entities/Enemy.h

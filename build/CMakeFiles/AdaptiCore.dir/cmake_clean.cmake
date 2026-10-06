@@ -4,6 +4,8 @@ file(REMOVE_RECURSE
   "AdaptiCore.pdb"
   "CMakeFiles/AdaptiCore.dir/src/core/Combat.cpp.obj"
   "CMakeFiles/AdaptiCore.dir/src/core/Combat.cpp.obj.d"
+  "CMakeFiles/AdaptiCore.dir/src/core/Environment.cpp.obj"
+  "CMakeFiles/AdaptiCore.dir/src/core/Environment.cpp.obj.d"
   "CMakeFiles/AdaptiCore.dir/src/core/Grid.cpp.obj"
   "CMakeFiles/AdaptiCore.dir/src/core/Grid.cpp.obj.d"
   "CMakeFiles/AdaptiCore.dir/src/entities/Enemy.cpp.obj"

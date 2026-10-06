@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/notfe/Documents/Projects/AdaptiCore/src/core/Combat.cpp" "CMakeFiles/AdaptiCore.dir/src/core/Combat.cpp.obj" "gcc" "CMakeFiles/AdaptiCore.dir/src/core/Combat.cpp.obj.d"
+  "C:/Users/notfe/Documents/Projects/AdaptiCore/src/core/Environment.cpp" "CMakeFiles/AdaptiCore.dir/src/core/Environment.cpp.obj" "gcc" "CMakeFiles/AdaptiCore.dir/src/core/Environment.cpp.obj.d"
   "C:/Users/notfe/Documents/Projects/AdaptiCore/src/core/Grid.cpp" "CMakeFiles/AdaptiCore.dir/src/core/Grid.cpp.obj" "gcc" "CMakeFiles/AdaptiCore.dir/src/core/Grid.cpp.obj.d"
   "C:/Users/notfe/Documents/Projects/AdaptiCore/src/entities/Enemy.cpp" "CMakeFiles/AdaptiCore.dir/src/entities/Enemy.cpp.obj" "gcc" "CMakeFiles/AdaptiCore.dir/src/entities/Enemy.cpp.obj.d"
   "C:/Users/notfe/Documents/Projects/AdaptiCore/src/entities/Player.cpp" "CMakeFiles/AdaptiCore.dir/src/entities/Player.cpp.obj" "gcc" "CMakeFiles/AdaptiCore.dir/src/entities/Player.cpp.obj.d"

@@ -28,5 +28,11 @@
   "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\AdaptiCore.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\AdaptiCore.dir\\src\\entities\\Enemy.cpp.obj -c C:\\Users\\notfe\\Documents\\Projects\\AdaptiCore\\src\\entities\\Enemy.cpp",
   "file": "C:/Users/notfe/Documents/Projects/AdaptiCore/src/entities/Enemy.cpp",
   "output": "CMakeFiles/AdaptiCore.dir/src/entities/Enemy.cpp.obj"
+},
+{
+  "directory": "C:/Users/notfe/Documents/Projects/AdaptiCore/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\AdaptiCore.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\AdaptiCore.dir\\src\\core\\Environment.cpp.obj -c C:\\Users\\notfe\\Documents\\Projects\\AdaptiCore\\src\\core\\Environment.cpp",
+  "file": "C:/Users/notfe/Documents/Projects/AdaptiCore/src/core/Environment.cpp",
+  "output": "CMakeFiles/AdaptiCore.dir/src/core/Environment.cpp.obj"
 }
 ]

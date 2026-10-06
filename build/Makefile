@@ -152,6 +152,30 @@ src/core/Combat.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdaptiCore.dir\build.make CMakeFiles/AdaptiCore.dir/src/core/Combat.cpp.s
 .PHONY : src/core/Combat.cpp.s
 
+src/core/Environment.obj: src/core/Environment.cpp.obj
+.PHONY : src/core/Environment.obj
+
+# target to build an object file
+src/core/Environment.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdaptiCore.dir\build.make CMakeFiles/AdaptiCore.dir/src/core/Environment.cpp.obj
+.PHONY : src/core/Environment.cpp.obj
+
+src/core/Environment.i: src/core/Environment.cpp.i
+.PHONY : src/core/Environment.i
+
+# target to preprocess a source file
+src/core/Environment.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdaptiCore.dir\build.make CMakeFiles/AdaptiCore.dir/src/core/Environment.cpp.i
+.PHONY : src/core/Environment.cpp.i
+
+src/core/Environment.s: src/core/Environment.cpp.s
+.PHONY : src/core/Environment.s
+
+# target to generate assembly for a file
+src/core/Environment.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AdaptiCore.dir\build.make CMakeFiles/AdaptiCore.dir/src/core/Environment.cpp.s
+.PHONY : src/core/Environment.cpp.s
+
 src/core/Grid.obj: src/core/Grid.cpp.obj
 .PHONY : src/core/Grid.obj
 
@@ -260,6 +284,9 @@ help:
 	@echo ... src/core/Combat.obj
 	@echo ... src/core/Combat.i
 	@echo ... src/core/Combat.s
+	@echo ... src/core/Environment.obj
+	@echo ... src/core/Environment.i
+	@echo ... src/core/Environment.s
 	@echo ... src/core/Grid.obj
 	@echo ... src/core/Grid.i
 	@echo ... src/core/Grid.s

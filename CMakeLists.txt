@@ -11,6 +11,7 @@ add_executable(AdaptiCore
     src/core/Combat.cpp
     src/entities/Player.cpp
     src/entities/Enemy.cpp
+    src/core/Environment.cpp
 )
 
 target_include_directories(AdaptiCore PRIVATE include)
